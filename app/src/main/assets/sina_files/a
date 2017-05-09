@@ -1,0 +1,1 @@
+try{homeWeatherWarnFun__({"result":{"status":{"code":0,"msg":""},"timestamp":"Mon May 08 15:42:26 +0800 2017","data":[]}});}catch(e){};
